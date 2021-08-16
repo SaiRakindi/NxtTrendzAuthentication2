@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.products-app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.products {
+  width: 150px;
+}
